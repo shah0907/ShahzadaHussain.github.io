@@ -204,7 +204,7 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
+      id: 0,
       title: "Resume Builder",
       date: "Nov 2023 - Dec 2023",
       description:
@@ -227,7 +227,7 @@ export const Bio = {
       webapp: "react-resume-builder-app.vercel.app/",
     },
     {
-      id: 0,
+      id: 1,
       title: "Get Youtube Subscriber",
       date: "Dec 2023 - Dec 2023",
       description:
@@ -240,6 +240,32 @@ export const Bio = {
       webapp: "https://get-youtube-subscribers-nine.vercel.app/",
       
     },
+    {
+      id: 3,
+      title: "Entertainment-App",
+      date: "jan 2024 - fab 2024",
+      description:
+        "A full-stack entertainment app is a web application that provides users with access to various forms of entertainment, such as music, movies, TV shows, games, and more. It includes features like user authentication, content browsing, playlist creation, recommendations, and social interactions. The app is built using technologies like HTML, CSS, JavaScript, Node.js, Express.js, and databases like MongoDB or PostgreSQL",
+      image:
+        "https://cdn.sanity.io/images/kts928pd/production/57a0cc35cb75ff4d1dd8a4e0cfe59a1df80a3989-731x731.png",
+      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      category: "web app",
+      github: "https://github.com/shah0907/Entertainment-App.git",
+      webapp: "https://entertainment-app-one-nu.vercel.app/",
+    },
+    {
+      id: 3,
+      title: "ToDo-List",
+      date: "fab 2024 - fab 2024",
+      description:
+        "A to-do list app helps users manage tasks by creating, organizing, and prioritizing them. Users can set reminders, add notes, and track progress. Built using HTML, CSS, JavaScript, and a backend like Node.js with databases like MongoDB or PostgreSQL",
+      image:
+        "https://cdn.pixabay.com/photo/2022/05/22/17/22/to-do-7214069_640.png",
+      tags: ["Html", "CSS", "Java Script", ],
+      category: "web app",
+      github: "https://github.com/shah0907/To-Do-List.git",
+      webapp: "https://to-do-list-ten-lime-27.vercel.app/",
+    }
     
   ];
      
